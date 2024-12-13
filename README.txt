@@ -22,4 +22,9 @@ If you're interested in learning more I would encourage you to read the book
 from which this program is based; The Wisdom of the Enneagram by Don Richard
 Riso and Russ Hudson.
 
-INSTRUCTIONS ON HOW TO RUN PROGRAM.
+In order to run this program you can download this file, navigate through the
+terminal into the "enneagram-main" folder, and type "java Main" in the terminal
+and hit enter.
+PLEASE FIRST SCAN THROUGH THE CODE TO ENSURE THERE IS NOTHING NEFARIOUS.
+It won't take long and if you are at all uncomfortable running this code then
+please don't.
