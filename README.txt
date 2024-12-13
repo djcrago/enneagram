@@ -1,4 +1,6 @@
-This is an Enneagram test that you can take at the command line!
+# Enneagram Test
+
+This repository houses an Enneagram Test you can run at the command line!
 
 Simply put, an Enneagram test is a personality type test. There are nine
 different personality types, each with their own unique characteristics. The
@@ -28,3 +30,14 @@ and hit enter.
 PLEASE FIRST SCAN THROUGH THE CODE TO ENSURE THERE IS NOTHING NEFARIOUS.
 It won't take long and if you are at all uncomfortable running this code then
 please don't.
+
+Screenshot of Program:
+![Screenshot of program running in the terminal](./program-screenshot.png?raw=true 'Program Screenshot')
+
+## Features
+
+- Simple Java program
+
+## License
+
+The project is licensed under the ISC license.
